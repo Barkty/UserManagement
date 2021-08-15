@@ -1,0 +1,12 @@
+C:\Users\GBEMI\Documents\WTF_Software\Week_10\Week10\Week10_Task\UserQueue\bin\Debug\net5.0\UserQueue.deps.json
+C:\Users\GBEMI\Documents\WTF_Software\Week_10\Week10\Week10_Task\UserQueue\bin\Debug\net5.0\UserQueue.dll
+C:\Users\GBEMI\Documents\WTF_Software\Week_10\Week10\Week10_Task\UserQueue\bin\Debug\net5.0\ref\UserQueue.dll
+C:\Users\GBEMI\Documents\WTF_Software\Week_10\Week10\Week10_Task\UserQueue\bin\Debug\net5.0\UserQueue.pdb
+C:\Users\GBEMI\Documents\WTF_Software\Week_10\Week10\Week10_Task\UserQueue\obj\Debug\net5.0\UserQueue.csproj.AssemblyReference.cache
+C:\Users\GBEMI\Documents\WTF_Software\Week_10\Week10\Week10_Task\UserQueue\obj\Debug\net5.0\UserQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GBEMI\Documents\WTF_Software\Week_10\Week10\Week10_Task\UserQueue\obj\Debug\net5.0\UserQueue.AssemblyInfoInputs.cache
+C:\Users\GBEMI\Documents\WTF_Software\Week_10\Week10\Week10_Task\UserQueue\obj\Debug\net5.0\UserQueue.AssemblyInfo.cs
+C:\Users\GBEMI\Documents\WTF_Software\Week_10\Week10\Week10_Task\UserQueue\obj\Debug\net5.0\UserQueue.csproj.CoreCompileInputs.cache
+C:\Users\GBEMI\Documents\WTF_Software\Week_10\Week10\Week10_Task\UserQueue\obj\Debug\net5.0\UserQueue.dll
+C:\Users\GBEMI\Documents\WTF_Software\Week_10\Week10\Week10_Task\UserQueue\obj\Debug\net5.0\ref\UserQueue.dll
+C:\Users\GBEMI\Documents\WTF_Software\Week_10\Week10\Week10_Task\UserQueue\obj\Debug\net5.0\UserQueue.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UserModel/1.0.0": {
+        "dependencies": {
+          "UserQueue": "1.0.0"
+        },
+        "runtime": {
+          "UserModel.dll": {}
+        }
+      },
+      "UserQueue/1.0.0": {
+        "runtime": {
+          "UserQueue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserQueue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

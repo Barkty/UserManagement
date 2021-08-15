@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "UserFile/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "UserModel": "1.0.0",
+          "UserQueue": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UserFile.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UserFile.dll": {}
+        }
+      },
+      "UserModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "UserQueue": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UserModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UserModel.dll": {}
+        }
+      },
+      "UserQueue/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/UserQueue.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UserQueue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserFile/1.0.0": {
+      "type": "project",
+      "path": "../UserFile/UserFile.csproj",
+      "msbuildProject": "../UserFile/UserFile.csproj"
+    },
+    "UserModel/1.0.0": {
+      "type": "project",
+      "path": "../UserModel/UserModel.csproj",
+      "msbuildProject": "../UserModel/UserModel.csproj"
+    },
+    "UserQueue/1.0.0": {
+      "type": "project",
+      "path": "../UserQueue/UserQueue.csproj",
+      "msbuildProject": "../UserQueue/UserQueue.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "UserFile >= 1.0.0",
+      "UserModel >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\GBEMI\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\GBEMI\\Documents\\WTF_Software\\Week_10\\Week10\\Week10_Task\\UserApp\\UserApp.csproj",
+      "projectName": "UserApp",
+      "projectPath": "C:\\Users\\GBEMI\\Documents\\WTF_Software\\Week_10\\Week10\\Week10_Task\\UserApp\\UserApp.csproj",
+      "packagesPath": "C:\\Users\\GBEMI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\GBEMI\\Documents\\WTF_Software\\Week_10\\Week10\\Week10_Task\\UserApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\GBEMI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\GBEMI\\Documents\\WTF_Software\\Week_10\\Week10\\Week10_Task\\UserFile\\UserFile.csproj": {
+              "projectPath": "C:\\Users\\GBEMI\\Documents\\WTF_Software\\Week_10\\Week10\\Week10_Task\\UserFile\\UserFile.csproj"
+            },
+            "C:\\Users\\GBEMI\\Documents\\WTF_Software\\Week_10\\Week10\\Week10_Task\\UserModel\\UserModel.csproj": {
+              "projectPath": "C:\\Users\\GBEMI\\Documents\\WTF_Software\\Week_10\\Week10\\Week10_Task\\UserModel\\UserModel.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
